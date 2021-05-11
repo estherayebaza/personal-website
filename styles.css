@@ -1,0 +1,126 @@
+body {
+    line-height: 30px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.my-container {
+    color: black;
+    min-height: 490px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    background-image: url(self.jpg);
+    background-repeat: no-repeat;
+}
+
+.column2 {
+    float: right;
+}
+
+.mySay {
+    font-style: italic;
+    font-size: 50px;
+}
+
+.state {
+    padding-left: 800px;
+}
+
+.nav ul {
+    float: right;
+    margin: 40px;
+}
+
+.nav ul li {
+    display: inline-block;
+    font-family: 'opensans-regular', sans-serif;
+}
+
+.nav ul li a {
+    padding: 8px 25px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.myAbout {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: white;
+    ;
+    text-align: center;
+    font-size: 20px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+h5 {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(36, 9, 9);
+}
+
+.myName {
+    color: black;
+    padding-left: 200px;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    height: 60px;
+}
+
+.myBlog {
+    background-color: rgb(36, 9, 9);
+    color: white;
+    font-size: 20px;
+}
+
+#blog {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+    background-color: light rgb(36, 9, 9);
+}
+
+.about {
+    background-color: rgb(36, 9, 9);
+    color: white;
+}
+
+.nav ul li a:hover {
+    color: orange;
+}
+
+header {
+    background-color: rgb(36, 9, 9);
+    height: 80px;
+    width: 100%;
+}
+
+h4 {
+    font-size: 35px;
+}
+
+.phot {
+    float: right;
+    width: 20%;
+}
+
+.icons {
+    color: white;
+}
